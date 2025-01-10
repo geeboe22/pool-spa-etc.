@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pool Spa Etc.</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f8ff;
+    }
+    header {
+      background-color: #0073e6;
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+    }
+    nav {
+      background-color: #004d99;
+      color: white;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+    }
+    section {
+      padding: 20px;
+      text-align: center;
+    }
+    footer {
+      background-color: #0073e6;
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Pool Spa Etc.</h1>
+  </header>
+  <nav>
+    <a href="#services">Services</a>
+    <a href="#about">About Us</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <section id="services">
+    <h2>Our Services</h2>
+    <p>We offer professional pool cleaning, repairs, and maintenance to keep your pool in top shape.</p>
+  </section>
+  <section id="about">
+    <h2>About Us</h2>
+    <p>At Pool Spa Etc., we are committed to making pool ownership hassle-free and enjoyable.</p>
+  </section>
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: info@poolspaetc.com</p>
+    <p>Phone: (555) 123-4567</p>
+  </section>
+  <footer>
+    <p>&copy; 2025 Pool Spa Etc. All rights reserved.</p>
+  </footer>
+</body>
+</html>
